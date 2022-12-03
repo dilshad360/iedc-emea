@@ -15,7 +15,7 @@ function Footer() {
           </span>
           <div class="flex mt-4 space-x-6 sm:mt-4">
             <a
-              href="#fb"
+              href="https://www.facebook.com/people/IEDC-EMEA/100087376762742/"
               class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
             >
               <svg
@@ -33,7 +33,7 @@ function Footer() {
               <span class="sr-only">Facebook page</span>
             </a>
             <a
-              href="#ig"
+              href="https://instagram.com/iedcemea/"
               class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
             >
               <svg
@@ -50,22 +50,9 @@ function Footer() {
               </svg>
               <span class="sr-only">Instagram page</span>
             </a>
+
             <a
-              href="#tw"
-              class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
-            >
-              <svg
-                class="w-5 h-5"
-                fill="currentColor"
-                viewBox="0 0 24 24"
-                aria-hidden="true"
-              >
-                <path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84" />
-              </svg>
-              <span class="sr-only">Twitter page</span>
-            </a>
-            <a
-              href="#li"
+              href="https://www.linkedin.com/company/iedcemea/"
               class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
             >
               <svg
@@ -77,7 +64,22 @@ function Footer() {
               >
                 <path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z" />
               </svg>
-              <span class="sr-only">Link page</span>
+              <span class="sr-only">linkedin page</span>
+            </a>
+            <a
+              href="mailto:iedc@emeacollege.ac.in"
+              class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+            >
+              <svg
+                class="w-5 h-5"
+                fill="currentColor"
+                aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+              >
+                <path d="M0 3v18h24v-18h-24zm21.518 2l-9.518 7.713-9.518-7.713h19.036zm-19.518 14v-11.817l10 8.104 10-8.104v11.817h-20z" />
+              </svg>
+              <span class="sr-only">Mail</span>
             </a>
           </div>
         </div>
