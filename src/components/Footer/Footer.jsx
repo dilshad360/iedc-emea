@@ -16,7 +16,7 @@ function Footer() {
           <div class="flex mt-4 space-x-6 sm:mt-4">
             <a
               href="https://www.facebook.com/people/IEDC-EMEA/100087376762742/"
-              class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+              class="text-gray-500 hover:text-green-500 dark:hover:text-white"
             >
               <svg
                 class="w-5 h-5"
@@ -34,7 +34,7 @@ function Footer() {
             </a>
             <a
               href="https://instagram.com/iedcemea/"
-              class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+              class="text-gray-500 hover:text-green-500 dark:hover:text-white"
             >
               <svg
                 class="w-5 h-5"
@@ -53,7 +53,7 @@ function Footer() {
 
             <a
               href="https://www.linkedin.com/company/iedcemea/"
-              class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+              class="text-gray-500 hover:text-green-500 dark:hover:text-white"
             >
               <svg
                 class="w-4 h-4"
@@ -68,7 +68,7 @@ function Footer() {
             </a>
             <a
               href="mailto:iedc@emeacollege.ac.in"
-              class="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+              class="text-gray-500 hover:text-green-500 dark:hover:text-white"
             >
               <svg
                 class="w-5 h-5"

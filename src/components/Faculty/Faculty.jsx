@@ -31,7 +31,7 @@ function Faculty() {
                 alt="Avatar"
               />
               <h3 class="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-              Muhammd Faisal T
+              Althaf T.K
               </h3>
               <p>Nodal Officer</p>
             </div>
