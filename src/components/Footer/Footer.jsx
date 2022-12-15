@@ -6,14 +6,7 @@ function Footer() {
       <footer class="p-4 bg-white sm:p-6 dark:bg-gray-900">
         <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
         <div class="flex flex-col items-center">
-          <span class=" text-gray-500 dark:text-gray-400">
-            © 2022{" "}
-            <a href="#home" class="hover:underline">
-              IEDC EMEA
-            </a>
-            . All Rights Reserved.
-          </span>
-          <div class="flex mt-4 space-x-6 sm:mt-4">
+          <div class="flex space-x-6">
             <a
               href="https://www.facebook.com/people/IEDC-EMEA/100087376762742/"
               class="text-gray-500 hover:text-green-500 dark:hover:text-white"
@@ -82,6 +75,11 @@ function Footer() {
               <span class="sr-only">Mail</span>
             </a>
           </div>
+          <span class=" text-gray-500 dark:text-gray-400 mt-2">
+            © 2022{" "}
+              IEDC EMEA
+            . All Rights Reserved.
+          </span>
         </div>
       </footer>
     </div>
