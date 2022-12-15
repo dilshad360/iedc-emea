@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/iedc-emea/static/css/main.efe035a7.css",
-    "main.js": "/iedc-emea/static/js/main.e1634a42.js",
+    "main.css": "/iedc-emea/static/css/main.58a587f4.css",
+    "main.js": "/iedc-emea/static/js/main.08c47a3e.js",
     "static/media/GovtKerala.png": "/iedc-emea/static/media/GovtKerala.b00dac9f77163208d03a.png",
-    "static/media/2.jpg": "/iedc-emea/static/media/2.5384bb2bc004dbe4677b.jpg",
     "static/media/hero.png": "/iedc-emea/static/media/hero.812e0fe51aacdf36cae8.png",
     "static/media/logo.svg": "/iedc-emea/static/media/logo.9966b1c5d5336b50d18d54e4d3b6aed6.svg",
     "static/media/1.jpg": "/iedc-emea/static/media/1.c0a58e1a6cdda6afb201.jpg",
+    "static/media/2.jpg": "/iedc-emea/static/media/2.f259b9bab14d9e18df8c.jpg",
     "static/media/IEDC-Logo.png": "/iedc-emea/static/media/IEDC-Logo.856842043ff33dac67dc.png",
     "static/media/KSM.png": "/iedc-emea/static/media/KSM.9eb15e1fae4a138c1802.png",
     "index.html": "/iedc-emea/index.html",
-    "main.efe035a7.css.map": "/iedc-emea/static/css/main.efe035a7.css.map",
-    "main.e1634a42.js.map": "/iedc-emea/static/js/main.e1634a42.js.map"
+    "main.58a587f4.css.map": "/iedc-emea/static/css/main.58a587f4.css.map",
+    "main.08c47a3e.js.map": "/iedc-emea/static/js/main.08c47a3e.js.map"
   },
   "entrypoints": [
-    "static/css/main.efe035a7.css",
-    "static/js/main.e1634a42.js"
+    "static/css/main.58a587f4.css",
+    "static/js/main.08c47a3e.js"
   ]
 }
